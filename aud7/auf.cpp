@@ -4,7 +4,7 @@ int main()
 {
     for (int i = 0; i < 100; i++)
     {
-        cout << "CLION!" <<endl;
+        cout << "CLION! dddd" <<endl;
     }
 
     return 0;
